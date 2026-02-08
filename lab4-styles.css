@@ -17,7 +17,7 @@ li {
     color:darkcyan;
 }
 
-a:hovered {
+a:hover{
     color: blue;
     text-decoration: none;
 }
