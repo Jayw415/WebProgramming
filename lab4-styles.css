@@ -1,0 +1,29 @@
+* { 
+    background-color:aquamarine;
+    font: Arial, sans-serif;
+}
+
+h1 {
+    color:blanchedalmond;
+    text-align: center;
+}
+
+p {
+    color:blueviolet;
+    padding: 10px;
+}
+
+li {
+    color: blue;
+    text-decoration: underline;
+}
+
+.styled-box div{
+    border: solid;
+}
+
+.styled-box{
+    background-color: grey;
+    padding: 15px;
+    text-align: center;
+}
